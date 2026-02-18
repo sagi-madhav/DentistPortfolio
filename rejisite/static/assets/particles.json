@@ -23,7 +23,7 @@
       "random": true,
       "anim": {
         "enable": true,
-        "speed": 1,
+        "speed": 0.5,
         "opacity_min": 0.1,
         "sync": false
       }
@@ -33,7 +33,7 @@
       "random": true,
       "anim": {
         "enable": true,
-        "speed": 2,
+        "speed": 0.5,
         "size_min": 3,
         "sync": false
       }
@@ -43,7 +43,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 1,
+      "speed": 0.5,
       "direction": "top",
       "random": true,
       "straight": false,
